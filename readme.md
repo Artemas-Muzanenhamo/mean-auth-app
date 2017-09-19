@@ -1,9 +1,14 @@
 # MEAN-Auth-App
 
+![MEAN-Stack][mean-stack]
+
+[mean-stack]: http://evincedev.com/blog/wp-content/uploads/2017/07/Mean.jpg
+
 ## About
 
 This is a simple application that allows users to use it provided
 they are authenticated. This application is built with the MEAN stack.
+
 
 ## Modules
 
